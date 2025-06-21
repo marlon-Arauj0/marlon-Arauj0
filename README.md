@@ -66,7 +66,7 @@ Sou desenvolvedor Full Stack com experiência no desenvolvimento de aplicações
 
 ## 📫 Contato
 
-**- E-mail: marlonaraujo1303@gmail.com**
+**E-mail: marlonaraujo1303@gmail.com**
 
 ---
 
