@@ -8,7 +8,7 @@ Desenvolvedor Full Stack com experiência em aplicações web e sistemas persona
 
 ---
 
-## 🚀 Minhas Tecnologias & Ferramentas
+## Minhas Tecnologias & Ferramentas
 
 <div style="display: inline_block">
   <img align="center" alt="Linux" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
